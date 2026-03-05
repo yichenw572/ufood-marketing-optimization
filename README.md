@@ -1,6 +1,10 @@
 # 🍷 UFood Marketing Optimization
 > Marketing Analytics: Optimizing campaign ROI through RFM customer segmentation, XGBoost predictive modeling, and SHAP-driven business insights.
 
+> **Acknowledgments & Project Scope** > The dataset and foundational Exploratory Data Analysis (EDA) concepts for this project were inspired by Alex the Analyst's excellent platform, [Analyst Builder](https://www.analystbuilder.com/). 
+>
+> **Going Beyond the Basics:** Building upon the course's foundation, I independently expanded the scope of this project. I engineered comprehensive RFM (Recency, Frequency, Monetary) metrics, applied **K-Means clustering** for advanced customer segmentation, and trained an **XGBoost predictive model** interpreted via **SHAP values** to extract deep, actionable business insights.
+
 ## 📊 Executive Summary & Strategic Action Plan
 By integrating foundational Exploratory Data Analysis (EDA) with advanced machine learning (XGBoost & SHAP), we have identified both the demographic profile of our customer base and the hidden behavioral drivers of marketing conversion. 
 
